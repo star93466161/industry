@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Nanum+Myeongjo:700&display=swap');
+.ceo{
+    background: url(../images/sub1bg2.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 1600px;
+    background-size: cover;
+}
+.ceobox{
+    text-align: left;
+    border:1px solid transparent;}
+#p1{ font-size: 30px;
+        font-weight:300;
+        line-height: 1;
+        letter-spacing: -1.5px;
+ margin-top:100px;
+        color: #222222;}
+.ceobox h3{
+        font-family: 'Nanum Myeongjo', serif;
+        font-size: 32px;
+  font-weight: bold;
+  line-height: 1.42;
+  letter-spacing: -2.24px;
+  color: #333333;
+  margin-top:49px;
+  margin-bottom:49px;
+    }    
+    .ceobox h3 span{color: #c52727;}
+    .ceobox h6{
+        font-size: 15px;
+        font-weight: 300;
+        line-height: 1.8;
+        letter-spacing: -0.75px;
+
+        color: #666666;
+    }
+    .ceobox  h6 span{
+    display: block;
+margin-top:15px;
+    }
+    #p2{
+        margin-top:60px;
+        font-family: 'Nanum Myeongjo', serif;
+        font-size: 28px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 0.96;
+  letter-spacing: -1.4px;
+  text-align: left;
+  color: #333333;
+    }
+    #p2 span{
+        font-family: 'Noto Sans KR', sans-serif;
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 1.69;
+        letter-spacing: -0.8px;
+        text-align: left;
+        color: #666666;
+        margin-right: 20px;
+    }

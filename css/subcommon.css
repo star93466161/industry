@@ -1,0 +1,30 @@
+.title{
+    background:url(../images/sub1bg.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 1600px;
+    height: 260px;
+    padding-top: 84px;
+ }
+.title h2{
+    font-size: 50px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 0.88;
+    letter-spacing: -3px;
+    text-align: center;
+    color: #ffffff;
+
+}
+.title h4{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.69;
+    letter-spacing: -0.8px;
+    text-align: center;
+    color: #ffffff;
+    margin-top:20px;
+}

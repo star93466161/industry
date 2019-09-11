@@ -1,0 +1,53 @@
+
+.now{
+    margin-top:100px;
+}
+.now p{
+    font-size: 30px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.47;
+    letter-spacing: -1.5px;
+    text-align: left;
+    color: #222222;
+}
+.now h4{
+    font-size: 26px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: -1.3px;
+    text-align: left;
+    color: #222222;
+    margin-top:50px;
+}
+.logic .logic-img{
+    background: url(../images/sub1-3bg.png);
+    background-repeat: no-repeat;
+    height: 720px;
+    width: 1100px;
+    background-size: cover;
+   position: relative;
+
+}
+.logic0{border:1px solid violet;
+position: absolute;
+}
+.logic0 h5{ font-size: 20px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.2;
+    letter-spacing: -1px;
+    text-align: right;
+    color: #c52727;}
+    .logic0 h6{  font-size: 14px;
+        font-weight: normal;
+        font-style: normal;
+        font-stretch: normal;
+        line-height: 1.93;
+        letter-spacing: -0.14px;
+        text-align: right;
+        color: #777777;}

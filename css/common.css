@@ -1,0 +1,14 @@
+/* thin 100,  light 300, regular 400, medium 500, bold 700 */
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR:400,500,700&display=swap');
+* {   margin: 0;   padding:0;    box-sizing: border-box;}
+li {    list-style: none;}
+a {    text-decoration: none;   cursor: pointer;}
+button {    cursor: pointer;}
+body {    font-family: 'Noto Sans KR', sans-serif;   
+
+    width: 1600px;    margin: 0 auto;    background: #ffffff;}
+.container {  width: 1100px;    margin: 0 auto; }
+caption {   color: transparent;}
+.pr{position: relative;}
+.ch{display: inline-block; vertical-align: top;}
+.abs{position: absolute;}

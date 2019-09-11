@@ -1,0 +1,67 @@
+/* 메인 배너 슬라이드섹션 시작 */
+.slideshow-container {
+    max-width: 1600px;
+    position: relative;
+    margin: auto;
+    margin-top:-3px;
+  }
+  .active {
+    background-color: #717171;
+  }
+  
+  /* Fading animation */
+  .fade {
+    -webkit-animation:{
+        name: fade;
+       duration: 1.5s;
+    }
+    animation:{
+        name:fade;
+   duration: 1.5s;
+    }
+  }
+  
+  @-webkit-keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  
+  @keyframes fade {
+    from {opacity: .4} 
+    to {opacity: 1}
+  }
+  .mySlides{
+      position: relative;
+      .text{
+          position: absolute;
+          top:100px;
+      left:250px;
+        text-align: left;
+      h2{
+          font:{
+            size: 72.5px;
+            weight: 500;
+            style: normal;
+            stretch: normal;
+          }
+              line-height: 1.1;
+        letter-spacing: -3.63px;
+        text-align: left;
+        color: #222222;
+    
+      }
+      h4{
+        font:{
+            size: 22px;
+            weight: 500;
+            style: normal;
+            stretch: normal;
+          }
+      margin-top:10px;
+        line-height: 2.18;
+        letter-spacing: -1.32px;
+             color: #222222;
+      }
+    }
+  }
+  /* 메인 배너 슬라이드섹션 끝 */
